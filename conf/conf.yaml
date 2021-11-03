@@ -1,0 +1,5 @@
+# Delimiter (tabs or comma) in csv file
+delimiter: tabs
+audio-path:  /data/suara/NEW/cv-corpus-6.1-2020-12-11/id/clips
+# Output Data
+sample-rate: 16000
